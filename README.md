@@ -1,7 +1,8 @@
 # <a name="title">Taichi Voxel Challenge</a>
 
 <p align="center">
-<img src="mellon.png" width="75%"></img>
+<img src="demo.png" width="50%"></img>
+<img src="mellon.png" width="50%"></img>
 </p>
 
 教主的作品 vs 我的作品（泪）
