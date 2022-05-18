@@ -1,9 +1,10 @@
 # <a name="title">Taichi Voxel Challenge</a>
 
-<img src="demo.jpg" width="45%"></img>
+<img src="demo.jpg" width="90%"></img>
 <img src="mellon.png" width="45%"></img>
+<img src="land.png" width="45%"></img>
 <p align="center">
-教主的作品 vs 我的作品（泪）
+教主的作品(上) vs 我的作品（下）（泪）
 </p>
 
 > Figure: result of `python3 example6.py`. Please replace the image above (`demo.jpg`) with yours, so that other people can immediately see your results :-)
